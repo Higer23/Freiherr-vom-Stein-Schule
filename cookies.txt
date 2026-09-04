@@ -1,0 +1,16 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.steinschule.de	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/wp-admin	FALSE	1999999999	wordpress_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/	FALSE	1999999999	wordpress_logged_in_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/	FALSE	1999999999	wp-settings-0	%20
+www.steinschule.de	TRUE	/	FALSE	1999999999	wp-settings-time-0	%20
+www.steinschule.de	TRUE	/	FALSE	1999999999	wordpress_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/	FALSE	1999999999	wordpress_sec_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/	FALSE	1999999999	wordpressuser_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/	FALSE	1999999999	wordpresspass_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/	FALSE	1999999999	wp-postpass_86ab6e94763b95074984c2e5f4b27670	%20
+www.steinschule.de	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP%20Cookie%20check
+
